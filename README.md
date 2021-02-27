@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=AyaDesigner&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=AyaDesigner&theme=dracula" />
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
