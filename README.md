@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-My name is Aya and I'm a Frontend/Full stack developer and Web designer. I'm from Russia, now living in Berlin. 
+My name is Aya and I'm a Frontend / Full stack developer and Web designer. I'm from Russia, now living in Berlin. 
 </p>
 
   
