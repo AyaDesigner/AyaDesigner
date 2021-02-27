@@ -29,13 +29,12 @@ My name is Aya and I'm a Frontend/Full stack developer and Web designer. I'm fro
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-[![GitHub forks](https://img.shields.io/github/forks/AyaDesigner/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/AyaDesigner/StrapDown.js/network/)
 
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AyaDesigner/AyaDesigner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaDesigner&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaDesigner&layout=compact&theme=dracula" />
 </a>
 
 <a href="https://github.com/AyaDesigner/AyaDesigner">
