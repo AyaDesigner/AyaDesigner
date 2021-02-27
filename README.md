@@ -26,16 +26,18 @@ My name is Aya and I'm a Frontend/Full stack developer and Web designer. I'm fro
 </p>
 
   
-
-## 🔧 Technologies & Tools
+<h1 align="center">
+🔧 Technologies & Tools
+</h1>
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
-
-## &#x1f4c8; GitHub Stats
+<h1 align="center">
+ &#x1f4c8; GitHub Stats
+</h1>
 
 <a href="https://github.com/AyaDesigner/AyaDesigner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaDesigner&layout=compact&theme=dracula" />
