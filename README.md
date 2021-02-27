@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=AyaDesigner&theme=dracula" />
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
@@ -39,9 +38,8 @@ My name is Aya and I'm a Frontend/Full stack developer and Web designer. I'm fro
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaDesigner&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/AyaDesigner/AyaDesigner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyaDesigner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=AyaDesigner&theme=dracula" />
 
 
 
