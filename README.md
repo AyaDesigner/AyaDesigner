@@ -35,7 +35,7 @@ My name is Aya and I'm a Frontend/Full stack developer and Web designer. I'm fro
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AyaDesigner/AyaDesigner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaDesigner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaDesigner&theme=dracula" />
 </a>
 
 <a href="https://github.com/AyaDesigner/AyaDesigner">
