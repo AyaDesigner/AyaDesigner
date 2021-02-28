@@ -1,6 +1,4 @@
-<h1 align="center">
- Hello, folks! I am Aya. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+
 
 <!--
 **AyaDesigner/AyaDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 ![Header](https://i.imgur.com/dSTTi2s.png)
 
-<p align='center'><samp>I'm a Frontend / Full Stack Developer from Russia now living in Berlin.<br/>I am in JavaScript, React, Redux, Node.js, Express, MongoDB, MySQL. <br/>Let's connect on <a href="https://www.linkedin.com/in/aya-berdyeva/">Linkedin</a>.</p>
+<p align='center'><samp>I'm a Frontend / Full Stack Developer from Russia now living in Berlin.<br/>My tech stack: JavaScript, React, Redux, Node.js, Express, MongoDB, MySQL. <br/>Let's connect on <a href="https://www.linkedin.com/in/aya-berdyeva/">Linkedin</a>.</p>
   
 <h1 align="center">
 🔧 Technologies & Tools
