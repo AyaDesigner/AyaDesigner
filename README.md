@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 
 
 
-[2]: https://github.com/AyaDesigner
+[2]: https://github.com/ayadotdev
 [3]: https://www.linkedin.com/in/aya-berdyeva/
 
