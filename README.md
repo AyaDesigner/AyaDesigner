@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  &#x1f4c8; GitHub Stats
 </h1>
 
-<a href="https://github.com/AyaDesigner/AyaDesigner">
+<a href="https://github.com/ayadotdevayadotdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaDesigner&layout=compact&theme=dracula" />
 </a>
 
-<a href="https://github.com/AyaDesigner/AyaDesigner">
+<a href="https://github.com/ayadotdevayadotdev">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AyaDesigner&layout=compact&theme=dracula" />
 
 
